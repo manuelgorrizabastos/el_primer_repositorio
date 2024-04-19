@@ -1,1 +1,2 @@
-contenido del fochero 3
+contenido del fichero 3
+hola estos son nuevas lineas en este fichero 3
